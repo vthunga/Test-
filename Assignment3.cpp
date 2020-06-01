@@ -23,7 +23,7 @@ class STACK
 	  }
       STACK(int x)
 	  { 
-	  		head = new node();
+	  		head = new node();(Just for testing )
 			head->item = x;
 			head->next = NULL;  
 		}
